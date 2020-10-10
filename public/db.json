@@ -1,0 +1,354 @@
+{
+  "questions": {
+      "500": [
+        {
+          "question": "What sort of animal is Walt Disney's Dumbo?",
+          "answers": [
+            {
+              "variant": "A",
+              "body": "Deer",
+              "isRight": false
+            },
+            {
+              "variant": "B",
+              "body": "Rabbit",
+              "isRight": false
+            },
+            {
+              "variant": "C",
+              "body": "Elephant",
+              "isRight": true
+            },
+            {
+              "variant": "D",
+              "body": "Donkey",
+              "isRight": false
+            }
+          ]
+        },
+        {
+          "question": "What sort of animal is Walt Disney's Dumbo?",
+          "answers": [
+            {
+              "variant": "A",
+              "body": "Deer",
+              "isRight": false
+            },
+            {
+              "variant": "B",
+              "body": "Rabbit",
+              "isRight": false
+            },
+            {
+              "variant": "C",
+              "body": "Elephant",
+              "isRight": true
+            },
+            {
+              "variant": "D",
+              "body": "Donkey",
+              "isRight": false
+            }
+          ]
+        }
+      ],
+    "1,000": [
+      {
+        "question": "Which battles took place between the Royal Houses of York and Lancaster?",
+        "answers": [
+          {
+            "variant": "A",
+            "body": "Thirty Years War",
+            "isRight": false
+          },
+          {
+            "variant": "B",
+            "body": "Hundred Years War",
+            "isRight": false
+          },
+          {
+            "variant": "C",
+            "body": "War of the Roses",
+            "isRight": true
+          },
+          {
+            "variant": "D",
+            "body": "English Civil War",
+            "isRight": false
+          }
+        ]
+      }
+    ],
+    "2,000": [
+      {
+        "question": "Which of these is not a country in Africa?",
+        "answers": [
+          {
+            "variant": "A",
+            "body": "Burkina Faso",
+            "isRight": false
+          },
+          {
+            "variant": "B",
+            "body": "Saudi Arabia",
+            "isRight": true
+          },
+          {
+            "variant": "C",
+            "body": "Botswana",
+            "isRight": false
+          },
+          {
+            "variant": "D",
+            "body": "Cote D'Ivoire",
+            "isRight": false
+          }
+        ]
+      }
+    ],
+    "4,000": [
+      {
+        "question": "What nationality is celebrated on St. Patrick's Day?",
+        "answers": [
+          {
+            "variant": "A",
+            "body": "Mexican",
+            "isRight": false
+          },
+          {
+            "variant": "B",
+            "body": "Welsh",
+            "isRight": false
+          },
+          {
+            "variant": "C",
+            "body": "American Indian",
+            "isRight": false
+          },
+          {
+            "variant": "D",
+            "body": "Irish",
+            "isRight": true
+          }
+        ]
+      }
+    ],
+    "8,000": [
+      {
+        "question": "What chemical is typically added to the water in swimming pools?",
+        "answers": [
+          {
+            "variant": "A",
+            "body": "Salt",
+            "isRight": false
+          },
+          {
+            "variant": "B",
+            "body": "Ammonia",
+            "isRight": false
+          },
+          {
+            "variant": "C",
+            "body": "Sulfur",
+            "isRight": false
+          },
+          {
+            "variant": "D",
+            "body": "Chlorine",
+            "isRight": true
+          }
+        ]
+      }
+    ],
+    "16,000": [
+      {
+        "question": "What is constantinople known as today?",
+        "answers": [
+          {
+            "variant": "A",
+            "body": "Ankara",
+            "isRight": false
+          },
+          {
+            "variant": "B",
+            "body": "Bulgaria",
+            "isRight": false
+          },
+          {
+            "variant": "C",
+            "body": "Rome",
+            "isRight": false
+          },
+          {
+            "variant": "D",
+            "body": "Istanbul",
+            "isRight": true
+          }
+        ]
+      }
+    ],
+    "32,000": [
+      {
+        "question": "What destroyed hirashima and nagazaki?",
+        "answers": [
+          {
+            "variant": "A",
+            "body": "An earthquake",
+            "isRight": false
+          },
+          {
+            "variant": "B",
+            "body": "An atomic bomb",
+            "isRight": true
+          },
+          {
+            "variant": "C",
+            "body": "A volcano",
+            "isRight": false
+          },
+          {
+            "variant": "D",
+            "body": "A war",
+            "isRight": false
+          }
+        ]
+      }
+    ],
+    "64,000": [
+      {
+        "question": "Where is Сasabalanca?",
+        "answers": [
+          {
+            "variant": "A",
+            "body": "South america",
+            "isRight": false
+          },
+          {
+            "variant": "B",
+            "body": "Europe",
+            "isRight": false
+          },
+          {
+            "variant": "C",
+            "body": "Africa",
+            "isRight": true
+          },
+          {
+            "variant": "D",
+            "body": "Asia",
+            "isRight": false
+          }
+        ]
+      }
+    ],
+    "125,000": [
+      {
+        "question": "Which king had 8 wives?",
+        "answers": [
+          {
+            "variant": "A",
+            "body": "Henry VI",
+            "isRight": true
+          },
+          {
+            "variant": "B",
+            "body": "Henry I",
+            "isRight": false
+          },
+          {
+            "variant": "C",
+            "body": "Henry III",
+            "isRight": false
+          },
+          {
+            "variant": "D",
+            "body": "Elvis presly",
+            "isRight": false
+          }
+        ]
+      }
+    ],
+    "250,000": [
+      {
+        "question": "Which of these colors is not used in the Olympic rings?",
+        "answers": [
+          {
+            "variant": "A",
+            "body": "Blue",
+            "isRight": false
+          },
+          {
+            "variant": "B",
+            "body": "Green",
+            "isRight": false
+          },
+          {
+            "variant": "C",
+            "body": "Orange",
+            "isRight": true
+          },
+          {
+            "variant": "D",
+            "body": "Yellow",
+            "isRight": false
+          }
+        ]
+      }
+    ],
+    "500,000": [
+      {
+        "question": "On the periodic table of the elements, which element has the symbol Sn?",
+        "answers": [
+          {
+            "variant": "A",
+            "body": "Tin",
+            "isRight": true
+          },
+          {
+            "variant": "B",
+            "body": "Strontium",
+            "isRight": false
+          },
+          {
+            "variant": "C",
+            "body": "Tungsten",
+            "isRight": false
+          },
+          {
+            "variant": "D",
+            "body": "Selenium",
+            "isRight": false
+          }
+        ]
+      }
+    ],
+    "1,000,000": [
+      {
+        "question": "Who is credited with taking the first known surviving photograph?",
+        "answers": [
+          {
+            "variant": "A",
+            "body": "Theodor Scheimpflug",
+            "isRight": false
+          },
+          {
+            "variant": "B",
+            "body": "Johann Baptist Isenring",
+            "isRight": false
+          },
+          {
+            "variant": "C",
+            "body": "Joseph Nicephore Niepce",
+            "isRight": true
+          },
+          {
+            "variant": "D",
+            "body": "Louis Daguerre",
+            "isRight": false
+          }
+        ]
+      }
+    ]
+
+  }
+}

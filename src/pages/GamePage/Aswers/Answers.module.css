@@ -1,0 +1,245 @@
+.answers {
+    display: flex;
+    flex-flow: row wrap;
+    align-content: flex-start;
+    max-width: 1000px;
+    margin-top: 400px;
+}
+
+.item {
+    width: 50%;
+}
+
+.btn {
+    margin: 20px;
+   width: 75%;
+    padding: 23px 20% 23px 10px;
+    font-size: 20px;
+    font-weight: 400;
+    position: relative;
+    border: 1px solid #D0D0D8;
+    border-left: none;
+    border-right: none;
+    background: white;
+    outline: none;
+    cursor: pointer;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+    z-index: 1000;
+}
+
+.btn:nth-child(2n) {
+    margin-left: 80px;
+}
+
+.btn:before {
+    content: '';
+    width: 52px;
+    height: 52px;
+    position: absolute;
+    top: 8px;
+    left: -29px;
+    border: 1px solid #D0D0D8;
+    border-top: none;
+    border-left: none;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    transform: rotate(135deg);
+
+    margin-left: 5px;
+}
+
+.btn:after {
+    content: '';
+    width: 52px;
+    height: 52px;
+    position: absolute;
+    top: 8px;
+    right: -29px;
+    border: 1px solid #D0D0D8;
+    border-bottom: none;
+    border-right: none;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    transform: rotate(135deg);
+
+    margin-right: 5px;
+}
+
+.btn:hover,
+.btn:hover:after,
+.btn:hover:before,
+.selectedBtn,
+.selectedBtn:after,
+.selectedBtn:before{
+    border-color: #FF8B37;
+}
+
+
+.line:before {
+    content: '';
+    width: 25px;
+    height: 1px;
+    position: absolute;
+    background:  #D0D0D8;
+    top: 49%;
+    left: -60px;
+    z-index: 1;
+}
+
+.line:after {
+    content: '';
+    width: 25px;
+    height: 1px;
+    position: absolute;
+    background:  #D0D0D8;
+    top: 49%;
+    right: -60px;
+    z-index: 1;
+}
+
+.btn:hover .line:after,
+.btn:hover .line:before,
+.selectedBtn .line:after,
+.selectedBtn .line:before{
+    background: #FF8B37;
+}
+
+
+.errorBtn,
+.errorBtn:before,
+.errorBtn:after{
+    border-color:  #EC6259;
+    background: #FDEEED;
+    color: black;
+}
+
+.errorBtn .line:after,
+.errorBtn .line:before{
+    background: #EC6259;
+}
+
+.successBtn,
+.successBtn:after,
+.successBtn:before{
+    border-color: #47D867;
+    background: #E6FAEA;
+    color: black;
+}
+
+.successBtn .line:after,
+.successBtn .line:before{
+    background: #47D867;
+}
+
+.disabled {
+    color: lightgray;
+}
+
+.variant {
+    color: #E87928;
+    font-weight: 600;
+    z-index: 1000;
+}
+
+
+@media (max-width: 1440px) {
+    .line:before,
+    .line:after {
+        width: 20px;
+    }
+
+    .line:before {
+        left: -52px;
+    }
+
+    .line:after {
+        right: -52px;
+    }
+
+}
+
+@media (max-width: 1220px) {
+    .answers {
+        flex-direction: column;
+        margin-top: 200px;
+    }
+
+    .btn:nth-child(2n) {
+        margin-left: 0;
+    }
+
+    .item {
+        width: 100%;
+    }
+
+
+}
+
+@media (max-width: 767px) {
+    .answers {
+        margin-top: 100px;
+        padding-left: 42px;
+    }
+
+    .item {
+        width: 100%;
+    }
+
+    .btn {
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 320px) {
+    .answers {
+        margin-top: 100px;
+        padding-left: 30px;
+
+    }
+    .btn {
+        font-size: 14px;
+        padding: 18px 20% 18px 10px;
+        min-width: 80%;
+        text-align: center;
+        margin-top: 5px;
+
+    }
+    .btn:nth-child(2n) {
+        margin-left: auto;
+    }
+    .btn:after,
+    .btn:before{
+        width: 36px;
+        height: 36px;
+    }
+
+    .btn:after {
+        right: -25px;
+    }
+
+    .btn:before {
+        left: -25px;
+    }
+
+    .line:after,
+    .line:before{
+        width: 25px;
+    }
+
+    .line:after {
+        right: -50px;
+    }
+
+    .line:before{
+        left: -50px;
+    }
+
+    .item {
+        width: 95%;
+    }
+
+
+}
