@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/millionare-game/static/css/main.08eedc55.chunk.css",
+    "main.css": "/millionare-game/static/css/main.7f84734e.chunk.css",
     "main.js": "/millionare-game/static/js/main.6b26dc5e.chunk.js",
     "main.js.map": "/millionare-game/static/js/main.6b26dc5e.chunk.js.map",
     "runtime-main.js": "/millionare-game/static/js/runtime-main.95bef59d.js",
@@ -8,16 +8,16 @@
     "static/js/2.ca55e438.chunk.js": "/millionare-game/static/js/2.ca55e438.chunk.js",
     "static/js/2.ca55e438.chunk.js.map": "/millionare-game/static/js/2.ca55e438.chunk.js.map",
     "index.html": "/millionare-game/index.html",
-    "precache-manifest.c9dec83fc46c9f516c9a5017eaa9a815.js": "/millionare-game/precache-manifest.c9dec83fc46c9f516c9a5017eaa9a815.js",
+    "precache-manifest.1e91ea4f4bb01ebba1d8f653ebc3feea.js": "/millionare-game/precache-manifest.1e91ea4f4bb01ebba1d8f653ebc3feea.js",
     "service-worker.js": "/millionare-game/service-worker.js",
-    "static/css/main.08eedc55.chunk.css.map": "/millionare-game/static/css/main.08eedc55.chunk.css.map",
+    "static/css/main.7f84734e.chunk.css.map": "/millionare-game/static/css/main.7f84734e.chunk.css.map",
     "static/js/2.ca55e438.chunk.js.LICENSE.txt": "/millionare-game/static/js/2.ca55e438.chunk.js.LICENSE.txt",
     "static/media/hand.svg": "/millionare-game/static/media/hand.36d0985d.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.95bef59d.js",
     "static/js/2.ca55e438.chunk.js",
-    "static/css/main.08eedc55.chunk.css",
+    "static/css/main.7f84734e.chunk.css",
     "static/js/main.6b26dc5e.chunk.js"
   ]
 }
