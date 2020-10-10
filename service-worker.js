@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/millionare-game/precache-manifest.c9ec9355844ca9adf0d1594e1192dedb.js"
+  "/millionare-game/precache-manifest.c9dec83fc46c9f516c9a5017eaa9a815.js"
 );
 
 self.addEventListener('message', (event) => {
