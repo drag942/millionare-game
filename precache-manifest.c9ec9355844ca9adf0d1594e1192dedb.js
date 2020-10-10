@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eb1dd91be357b4e433ebe1f0d1ba3c19",
+    "revision": "5e1135262d7ed70ecee090f517338e38",
     "url": "/millionare-game/index.html"
   },
   {
-    "revision": "bf060c17d5aba51d8d2b",
+    "revision": "9098987b5fa7e1b589cb",
     "url": "/millionare-game/static/css/main.08eedc55.chunk.css"
   },
   {
-    "revision": "b634d63f533e227a4b60",
-    "url": "/millionare-game/static/js/2.02ce9225.chunk.js"
+    "revision": "71acfd651f50e6c542e6",
+    "url": "/millionare-game/static/js/2.ca55e438.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/millionare-game/static/js/2.02ce9225.chunk.js.LICENSE.txt"
+    "url": "/millionare-game/static/js/2.ca55e438.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bf060c17d5aba51d8d2b",
-    "url": "/millionare-game/static/js/main.26e3ff81.chunk.js"
+    "revision": "9098987b5fa7e1b589cb",
+    "url": "/millionare-game/static/js/main.3c824a01.chunk.js"
   },
   {
     "revision": "0f02d8dbcf1a71dea70f",
