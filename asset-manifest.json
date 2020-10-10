@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.a441ceb3.chunk.css",
-    "main.js": "/static/js/main.c4aac1f0.chunk.js",
-    "main.js.map": "/static/js/main.c4aac1f0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.108d45f4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.108d45f4.js.map",
-    "static/js/2.02ce9225.chunk.js": "/static/js/2.02ce9225.chunk.js",
-    "static/js/2.02ce9225.chunk.js.map": "/static/js/2.02ce9225.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.60d8ebf8eb376df3d93dd5060dd4f64f.js": "/precache-manifest.60d8ebf8eb376df3d93dd5060dd4f64f.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.a441ceb3.chunk.css.map": "/static/css/main.a441ceb3.chunk.css.map",
-    "static/js/2.02ce9225.chunk.js.LICENSE.txt": "/static/js/2.02ce9225.chunk.js.LICENSE.txt",
-    "static/media/hand.svg": "/static/media/hand.36d0985d.svg"
+    "main.css": "/drag94.github.io/millionare-game/static/css/main.a441ceb3.chunk.css",
+    "main.js": "/drag94.github.io/millionare-game/static/js/main.c4aac1f0.chunk.js",
+    "main.js.map": "/drag94.github.io/millionare-game/static/js/main.c4aac1f0.chunk.js.map",
+    "runtime-main.js": "/drag94.github.io/millionare-game/static/js/runtime-main.e1eec31f.js",
+    "runtime-main.js.map": "/drag94.github.io/millionare-game/static/js/runtime-main.e1eec31f.js.map",
+    "static/js/2.02ce9225.chunk.js": "/drag94.github.io/millionare-game/static/js/2.02ce9225.chunk.js",
+    "static/js/2.02ce9225.chunk.js.map": "/drag94.github.io/millionare-game/static/js/2.02ce9225.chunk.js.map",
+    "index.html": "/drag94.github.io/millionare-game/index.html",
+    "precache-manifest.094bde5ad13cb1195b35d132253357af.js": "/drag94.github.io/millionare-game/precache-manifest.094bde5ad13cb1195b35d132253357af.js",
+    "service-worker.js": "/drag94.github.io/millionare-game/service-worker.js",
+    "static/css/main.a441ceb3.chunk.css.map": "/drag94.github.io/millionare-game/static/css/main.a441ceb3.chunk.css.map",
+    "static/js/2.02ce9225.chunk.js.LICENSE.txt": "/drag94.github.io/millionare-game/static/js/2.02ce9225.chunk.js.LICENSE.txt",
+    "static/media/hand.svg": "/drag94.github.io/millionare-game/static/media/hand.36d0985d.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.108d45f4.js",
+    "static/js/runtime-main.e1eec31f.js",
     "static/js/2.02ce9225.chunk.js",
     "static/css/main.a441ceb3.chunk.css",
     "static/js/main.c4aac1f0.chunk.js"
