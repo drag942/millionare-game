@@ -2,7 +2,7 @@ import * as axios from "axios";
 
 // @ts-ignore
 const instance = axios.create({
-    baseURL: '/db.json'
+    baseURL: '/millionare-game/db.json'
 });
 
 export const getQuestions = () => {

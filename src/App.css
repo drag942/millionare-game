@@ -6,35 +6,3 @@
     font-family: 'Inter', sans-serif;
 
 }
-
-@media (max-width: 1440px) {
-    .App {
-        max-width: 1024px;
-    }
-
-}
-
-@media (max-width: 1220px) {
-    .App {
-        max-width: 880px;
-    }
-}
-
-@media (max-width: 1024px) {
-    .App {
-        max-width: 767px;
-    }
-}
-
-@media (max-width: 900px) {
-    .App {
-        max-width: 600px;
-    }
-}
-
-@media (max-width: 767px) {
-    .App {
-        max-width: 500px;
-    }
-
-}

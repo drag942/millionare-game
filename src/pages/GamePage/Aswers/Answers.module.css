@@ -3,11 +3,12 @@
     flex-flow: row wrap;
     align-content: flex-start;
     max-width: 1000px;
-    margin-top: 400px;
+    margin-top: 385px;
 }
 
 .item {
-    width: 50%;
+    width: 40%;
+    margin-left: 35px;
 }
 
 .btn {
@@ -28,6 +29,7 @@
     justify-content: space-between;
     text-align: left;
     z-index: 1000;
+    white-space: nowrap;
 }
 
 .btn:nth-child(2n) {
@@ -80,23 +82,23 @@
 
 .line:before {
     content: '';
-    width: 25px;
+    width: 13%;
     height: 1px;
     position: absolute;
     background:  #D0D0D8;
     top: 49%;
-    left: -60px;
+    left: -70px;
     z-index: 1;
 }
 
 .line:after {
     content: '';
-    width: 25px;
+    width: 13%;
     height: 1px;
     position: absolute;
     background:  #D0D0D8;
     top: 49%;
-    right: -60px;
+    right: -70px;
     z-index: 1;
 }
 
@@ -148,15 +150,15 @@
 @media (max-width: 1440px) {
     .line:before,
     .line:after {
-        width: 20px;
+        width: 13%;
     }
 
     .line:before {
-        left: -52px;
+        left: -70px;
     }
 
     .line:after {
-        right: -52px;
+        right: -70px;
     }
 
 }
@@ -172,33 +174,85 @@
     }
 
     .item {
-        width: 100%;
+        width: 45%;
+        margin-left: 10%;
+
     }
 
+    .btn {
+        width: 90%;
+    }
+
+
+}
+
+@media (max-width: 1024px) {
+    .item {
+        width: 91%;
+        margin-left: 0;
+
+    }
+
+    .btn {
+        width: 64%;
+    }
+}
+
+
+@media (max-width: 900px) {
+    .btn {
+        width: 90%;
+    }
 
 }
 
 @media (max-width: 767px) {
     .answers {
-        margin-top: 100px;
-        padding-left: 42px;
+        margin-top: 50px;
+       padding-left: 5%;
+        width: 60%;
     }
-
     .item {
-        width: 100%;
+        width: 95%;
     }
 
     .btn {
-        font-size: 18px;
+        font-size: 14px;
+        padding: 18px 20% 18px 10px;
+        margin-left: 0;
+        margin-right: 0;
     }
+
+    .btn:after,
+    .btn:before{
+        width: 36px;
+        height: 36px;
+    }
+
+    .btn:after {
+        right: -25px;
+    }
+
+    .btn:before {
+        left: -25px;
+    }
+
+    .line:after,
+    .line:before{
+        width: 25px;
+    }
+
+    .line:after {
+        right: -50px;
+    }
+
+    .line:before{
+        left: -50px;
+    }
+
 }
 
 @media (max-width: 320px) {
-    .answers {
-        margin-top: 100px;
-        padding-left: 30px;
-
-    }
     .btn {
         font-size: 14px;
         padding: 18px 20% 18px 10px;
